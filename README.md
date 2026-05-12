@@ -1,0 +1,2 @@
+# 13.5-vel-and-pos
+Set up a script that will use the data below to determine the position of the object at t=10 seconds. (Note: that you will need to take into consideration the initial position of the object.)
